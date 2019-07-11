@@ -1,0 +1,27 @@
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 10em;
+  border-radius: 16px;
+  height: 32em;
+  box-shadow: -5px 5px 20px 3px #bdbaba;
+}
+
+.login-slider {
+  border-radius: 16px 0 0 16px
+}
+
+.login-section {
+  border-radius: 0 16px 16px 0;
+  background-image: url("../../assets/images/IMAGES/House Architecture 4.jpg");
+  background-size: 50em;
+  background-position: center;
+  background-clip: border-box;
+
+}
+
+
+
+
+
+

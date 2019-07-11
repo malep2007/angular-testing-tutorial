@@ -1,0 +1,46 @@
+.login-form img {
+  width: 1rem;
+  margin: 14px 14px 10px 10px;
+  float: left;
+}
+
+.login-form {
+  margin: 3rem 1rem 1rem 1rem;
+}
+
+.email, .password {
+  border: none;
+  height: inherit;
+  width: 20rem;
+  font-size: 20px;
+}
+
+.email:focus, .password:focus {
+  outline: none;
+}
+
+.input {
+  border: none;
+  height: 3rem;
+  margin: 0 2rem 1rem 2rem;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.login-form button {
+  width: 6rem;
+  height: 2.5rem;
+  border-radius: 20px;
+  background-color: rgb(153, 153, 10);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: black;
+  margin: 1.5rem 9rem 1rem 2rem;
+}
+
+.login-form a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-decoration: none;
+}
